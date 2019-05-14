@@ -14,3 +14,11 @@ proxies.py  创建本地ip代理池
 step1：安装第三方模块 requests、lxml 
 step2：运行proxies.py
 --------------------------------------
+
+--------------------------------------
+music文件	用scrapy框架爬取好听轻音乐网热播榜音乐			
+
+step1：安装第三方模块 scrapy、openpyxl、requests
+step2：在htqyy.py中设置要爬取的页数，默认为数值2爬取3页信息
+step3: 运行main.py，歌曲信息保存在本地htqyy.xlsx，对应歌曲在songs文件夹里
+--------------------------------------
