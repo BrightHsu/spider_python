@@ -22,3 +22,9 @@ step1：安装第三方模块 scrapy、openpyxl、requests
 step2：在htqyy.py中设置要爬取的页数，默认为数值2爬取3页信息
 step3: 运行main.py，歌曲信息保存在本地htqyy.xlsx，对应歌曲在songs文件夹里
 --------------------------------------
+
+--------------------------------------
+notes文件	笔记 
+test_mysql.py	python读写mysql
+read_json.py	python读取json
+------------------------------------
