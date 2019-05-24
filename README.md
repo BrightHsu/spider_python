@@ -28,3 +28,8 @@ notes文件	笔记
 test_mysql.py	python读写mysql
 read_json.py	python读取json
 ------------------------------------
+
+--------------------------------------
+maoyan文件	用scrapy框架爬取猫眼电影Top100榜单
+运行start.py即可存入数据到本地json格式excel表格
+--------------------------------------
